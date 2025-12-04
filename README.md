@@ -222,8 +222,7 @@ Team Members
 
 
 Project Link:
-[https://github.com/YOUR-USERNAME/YOUR-REPO-NAME](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
-
+(https://github.com/RESH-22/STT-TTS)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
