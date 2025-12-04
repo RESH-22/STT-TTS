@@ -1,9 +1,4 @@
 # STT-TTS
-Got it! I will create a **GitHub README.md exactly like your Hackintym-24 style**, but for your **Speech-to-Text + Text-to-Speech Python Project**.
-
-Here is the **final polished README.md** — copy & paste directly into GitHub.
-
----
 
 # 🎤 Speech-to-Text & Text-to-Speech (Python Project)
 
@@ -223,8 +218,8 @@ See `LICENSE` for details.
 
 Team Members
 
-* Your Name – [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* Add your teammates (optional)
+* Your Name – [rreshmitha22@gmail.com](mailto:rreshmitha@gmail.com)
+
 
 Project Link:
 [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
